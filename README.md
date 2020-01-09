@@ -10,10 +10,10 @@ or imported through phpMyAdmin or workbench import utilities.
 2. PHP Set-up
 Follow the below steps to complete the PHP code set-up.
 1. In case of LAMP set-up, copy the php folder to /var/www/html folder and rename it to hotellitha.
-In case of XAMPP set-up, copy the php folder to <parent folder>/xampp/htdocs and rename it to hotellitha
-2. Test the application by running http://localhost/hotellitha or http://<privateipaddress>/hotellitha .
+In case of XAMPP set-up, copy the php folder to parent folder/xampp/htdocs and rename it to hotellitha
+2. Test the application by running http://localhost/hotellitha or http://privateipaddress/hotellitha .
 3. Once tested in the local network, open the port 80 on the router to the webserver to host the website over internet in
-http://<publicipaddress>/hotellitha.
+http://publicipaddress/hotellitha.
 
 3. Credentials
 Below provided is the Website credentials for Administrator role. 
